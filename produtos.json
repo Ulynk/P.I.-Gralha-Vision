@@ -1,0 +1,104 @@
+[
+    {
+        "nome": "CAMISA",
+        "descricao": "Camisa de futebol oficial do Brasil",
+        "preco": "350",
+        "categoria": "FUTEBOL"
+    },
+    {
+        "nome": "CHUTEIRA",
+        "descricao": "Chuteira de futebol profissional",
+        "preco": "600",
+        "categoria": "FUTEBOL"
+    },
+    {
+        "nome": "LUVAS",
+        "descricao": "Luva profissional para goleiros",
+        "preco": "250",
+        "categoria": "FUTEBOL"
+    },
+    {
+        "nome": "BOLA",
+        "descricao": "Bola de futebol profissional FIFA",
+        "preco": "100",
+        "categoria": "FUTEBOL"
+    },
+    {
+        "nome": "SHIRT",
+        "descricao": "Camisa de basquete oficial da FIBA",
+        "preco": "500",
+        "categoria": "BASQUETE"
+    },
+    {
+        "nome": "BOLA",
+        "descricao": "Bola de basquete oficial da NBA",
+        "preco": "200",
+        "categoria": "BASQUETE"
+    },
+    {
+        "nome": "BASQUETEIRA",
+        "descricao": "Tenis de basquete profissional",
+        "preco": "400",
+        "categoria": "BASQUETE"
+    },
+    {
+        "nome": "RAQUETE",
+        "descricao": "Raquete de tenis profissional",
+        "preco": "500",
+        "categoria": "TENIS"
+    },
+    {
+        "nome": "BOLINHA",
+        "descricao": "Bolinha de tenis oficial",
+        "preco": "100",
+        "categoria": "TENIS"
+    },
+    {
+        "nome": "MUNHEIQUEIRA",
+        "descricao": "tenis de tenis profissional",
+        "preco": "80",
+        "categoria": "TENIS"
+    },
+    {
+        "nome": "LUVAS",
+        "descricao": "Luva profissional",
+        "preco": "250",
+        "categoria": "LUTAS"
+    },
+    {
+        "nome": "SHORTS",
+        "descricao": "Shorts oficial do UFC",
+        "preco": "150",
+        "categoria": "LUTAS"
+    },
+    {
+        "nome": "KIMONO",
+        "descricao": "Kimono profissional com faixa branca extra",
+        "preco": "200",
+        "categoria": "LUTAS"
+    },
+    {
+        "nome": "PROTETOR",
+        "descricao": "Protetor bocal para dentes",
+        "preco": "50",
+        "categoria": "LUTAS"
+    },
+    {
+        "nome": "CAMISETA",
+        "descricao": "Camisa com tecnologia anti-tranpirante",
+        "preco": "150",
+        "categoria": "BEM-ESTAR"
+    },
+    {
+        "nome": "SHORTS",
+        "descricao": "Short com tecnologia anti-tranpirante",
+        "preco": "120",
+        "categoria": "BEM-ESTAR"
+    },
+    {
+        "nome": "TENIS",
+        "descricao": "Tenis para corrida",
+        "preco": "280",
+        "categoria": "BEM-ESTAR"
+    }
+]
